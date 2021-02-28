@@ -68,6 +68,7 @@ button:hover {
   margin-top: -15px;
   padding-top: 10px;
   padding-bottom: 30px;
+  background-color: white;
 }
 
 .popover ul, li {
